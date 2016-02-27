@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var cybersquatter = require('./lib/index').default
 
 // parse argument names
