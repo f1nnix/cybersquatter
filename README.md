@@ -32,7 +32,7 @@ cybersquatter digisec area51 faceb00k nodejsrocks
 
 This will create `report.html` in the current directory. If `report.html` already exists from previous scan, cybersquatter will just append new results to it.
 
-## TODO (![cybersquatt](https://github.com/f1nnix/cybersquatt))
+## TODO ([cybersquatt](https://github.com/f1nnix/cybersquatt))
 
 * improve DNS check, use whois for non-resolved domains
 * add more social networks // services
